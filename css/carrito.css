@@ -177,16 +177,16 @@ body h1 {
 
 /** CSS DEL FOMRMULARIO*/
 .form-datos {
-  margin: 10px auto;
-  padding: 25px;
-  width: 90;
-  max-width: 500;        /* ✔ ancho amplio en escritorio */
+  margin: 1px auto;
+  padding: 60px;
+  width: 100 px;
+  max-width: 600;        /* ✔ ancho amplio en escritorio */
   background: #d8d1d1ee;     /* tarjeta blanca */
-  border-radius: 15px;
-  box-shadow: 0 4px 20px rgba(0,0,0,0.1); /* sombra suave */
+  border-radius: 35px;
+  box-shadow: 5 4px 20px rgba(0,0,0,0.1); /* sombra suave */
   display: flex;
   flex-direction: column;
-  gap: 15px;               /* ✔ separación automática entre elementos */
+  gap: 10px;               /* ✔ separación automática entre elementos */
 }
 
 /* Título elegante */
